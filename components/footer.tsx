@@ -86,7 +86,7 @@ export function Footer() {
             </Link>
 
             <p className="max-w-md text-sm leading-relaxed text-primary-foreground/80">
-              Jero Fire Solutions is your certified partner for fire detection, alarm systems, extinguisher servicing, suppression, and OHS compliance across Gauteng. Certified technicians, full compliance documentation, every job.
+              Jero Fire Solutions is your certified partner for fire detection, alarm systems, extinguisher servicing, and suppression across Gauteng. Certified technicians, full compliance documentation, every job.
             </p>
 
             {/* Social Media Links */}
