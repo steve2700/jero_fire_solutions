@@ -61,7 +61,7 @@ export function HeroSection() {
 
             {/* Description */}
             <p className="mb-6 sm:mb-8 text-pretty text-base sm:text-lg text-primary-foreground/80 md:text-xl max-w-2xl mx-auto lg:mx-0" itemProp="description">
-              <strong className="text-white">Jero Fire Solutions</strong> delivers fire detection and alarm systems, extinguisher servicing, sprinkler and suppression installation, and OHS fire safety compliance audits across{" "}
+              <strong className="text-white">Jero Fire Solutions</strong> delivers fire detection and alarm systems, extinguisher servicing, and sprinkler and suppression installation across{" "}
               <strong className="text-white">Johannesburg, Pretoria, Kempton Park</strong> and greater{" "}
               <strong className="text-white">Gauteng</strong>. Certified technicians, full compliance documentation.
             </p>
@@ -196,10 +196,6 @@ export function HeroSection() {
             <div className="flex items-center gap-2 text-white/90 bg-white/5 rounded-lg px-4 py-2 backdrop-blur-sm hover:bg-white/10 transition-all">
               <Shield className="h-5 w-5 text-accent" aria-hidden="true" />
               <span className="text-sm font-semibold">Certified Fire Technicians</span>
-            </div>
-            <div className="flex items-center gap-2 text-white/90 bg-white/5 rounded-lg px-4 py-2 backdrop-blur-sm hover:bg-white/10 transition-all">
-              <FileCheck className="h-5 w-5 text-accent" aria-hidden="true" />
-              <span className="text-sm font-semibold">OHS Compliance Audits</span>
             </div>
             <div className="flex items-center gap-2 text-white/90 bg-white/5 rounded-lg px-4 py-2 backdrop-blur-sm hover:bg-white/10 transition-all">
               <CheckCircle className="h-5 w-5 text-accent" aria-hidden="true" />
