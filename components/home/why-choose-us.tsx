@@ -14,7 +14,7 @@ const reasons = [
     icon: Shield,
     title: "Insured and Compliant",
     description:
-      "Every callout is fully insured and carried out in line with OHS fire safety requirements, so you can book with complete peace of mind.",
+      "Every callout is fully insured and carried out in line with fire safety requirements, so you can book with complete peace of mind.",
   },
   {
     icon: CheckCircle,
@@ -38,7 +38,7 @@ const reasons = [
     icon: Siren,
     title: "Fire Safety Specialists, Not Generalists",
     description:
-      "From detection and alarms to suppression, hydrants, and OHS compliance, fire safety is the only thing we do, every single day.",
+      "From detection and alarms to suppression and hydrants, fire safety is the only thing we do, every single day.",
   },
 ]
 
