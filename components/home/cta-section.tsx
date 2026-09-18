@@ -34,7 +34,7 @@ export function CTASection() {
             Ready to Get Your Site Compliant?
           </h2>
           <p className="mb-10 text-pretty text-lg text-primary-foreground/80 md:text-xl">
-            Contact Jero Fire Solutions today for a free quote. Our team is ready to help with fire detection, alarm systems, extinguisher servicing, suppression, and OHS compliance audits across Johannesburg, Pretoria, and the rest of Gauteng.
+            Contact Jero Fire Solutions today for a free quote. Our team is ready to help with fire detection, alarm systems, extinguisher servicing, and suppression across Johannesburg, Pretoria, and the rest of Gauteng.
           </p>
 
           <div className="mb-12 flex flex-col items-center justify-center gap-4 sm:flex-row">
